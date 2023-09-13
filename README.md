@@ -42,13 +42,14 @@ Move Up
 1. Positive reward for getting closer
 2. Negative rewards for collide with obstacles
 
-### Graphical Representation
-[Uploading rl.pdf…]()
+### Graphical Representation()
 ![RL](https://github.com/ragul-2004/mdp-representation/assets/94367917/43e15dd7-0847-425e-a9cd-a8d0b505097b)
 
 
 
 ## PYTHON REPRESENTATION:
+### NAME : RAGUL A C
+### REG NO : 212221240042
 ```python
 P = {
     0:{
