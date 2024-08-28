@@ -41,7 +41,8 @@ Transition to healthy state: +1
 Staying sick: -1
 Terminal states: No reward
 ### Graphical Representation
-![graph](graph1.jpg)
+![graph1](https://github.com/user-attachments/assets/cc0d8c34-1c67-4848-b94f-91eda11c14f4)
+
 
 ## PYTHON REPRESENTATION:
 ```python
@@ -72,7 +73,8 @@ P
 ```
 
 ## OUTPUT:
-![output](newout.png)
+![newout](https://github.com/user-attachments/assets/00d2ef54-7384-48f4-b271-d41d3c2202d8)
+
 
 ## RESULT:
 The Markov Decision Process (MDP) has been successfully represented using Python dictionaries. Each state-action pair contains information about possible transitions, transition probabilities, associated rewards, and whether the next state is terminal or not. This representation can be used for further analysis and decision-making algorithms such as reinforcement learning.
