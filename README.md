@@ -19,9 +19,9 @@ State 2: Seriously Sick
 {Healthy, Mildly Sick, Seriously Sick} -> {0, 1, 2}
 
 ### Sample State
-# State: Healthy
-# Healthy -> 0
-# (The patient is Healthy, represented numerically as 0.)
+State: Healthy
+Healthy -> 0
+(The patient is Healthy, represented numerically as 0.)
 
 ### Action Space
 Action 0: Treat
@@ -45,7 +45,7 @@ Treat -> 0
 
 
 ## PYTHON REPRESENTATION:
-```python
+~~~
 import random
 
 # MDP Representation in Python
